@@ -1,7 +1,7 @@
-# The Designed Classroom
-## Re-framing Planning and Teaching as a Design Challenge
+# Elementary Inquiry
 
-> Documenting what I learn as I attempt to use Design Thinking, Agile and Lean methodologies, Blended Classroom and Social Constructivist paradigms, Project-Based Learning and Going Gradeless to design, iterate, teach and assess during the 2016–2017 school year. 
+### Attempting to answer the 2016-2017 question:
+> How does a project-based STEM learning environment increase authentic student engagement in Elementary Math, Science and the new Design and Coding curriculum?
 
 ### [\(Summary of\) What's Inside ](SUMMARY.md)
 
