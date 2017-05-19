@@ -1,0 +1,11 @@
+{
+    "plugins": [
+        "comment",
+        "katex"
+    ],
+    "pluginsConfig": {
+        "comment": {
+            "highlightCommented": true
+        }
+    }
+}
