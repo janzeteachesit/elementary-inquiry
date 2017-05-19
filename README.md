@@ -8,10 +8,9 @@
 ___
 
 ## Ways to read "Re-framing Planning and Teaching as a Design Challenge"
-- [The GitHub Repository](https://github.com/janzeteachesit/redefining-the-classroom/)
-- [As a GitBook](https://janzeteachesit.gitbooks.io/redefining-the-classroom/content/), even Drafts
-- [As Web Pages \(gh_pages\)](https://janzeteachesit.github.io/redefining-the-classroom/), even Drafts
-- [On Medium](https://medium.com/designed-classroom): (not everything is published, tho')
+- [The GitHub Repository](https://github.com/janzeteachesit/elementary-inquiry/)
+- [As a GitBook](https://janzeteachesit.gitbooks.io/elementary-inquiry/content/), even Drafts
+- [As Web Pages \(gh_pages\)](https://janzeteachesit.github.io/elementary-inquiry/), even Drafts
 - [raw notes and docs - GDrive folder](https://drive.google.com/open?id=0BysMfTbvAUUVVGNtbDA0TG43OG8)
 
 
