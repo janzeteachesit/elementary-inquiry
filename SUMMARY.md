@@ -19,7 +19,7 @@
     * [Drafting & 3D Design](3d-design.md)
        * [TinkerCad](tinkercad.md)
     * [Digital Media](digital-media.md)
-      * [Code Club: Projects](https://codeclubprojects.org/en-GB/)
+      * [Code Club: Projects](code-club.md)
     * [Computers and Communications Devices](devices.md)
        * [Encryption](encryption.md)
     * Robotics   
