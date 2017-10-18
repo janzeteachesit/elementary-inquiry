@@ -7,7 +7,7 @@
 
 ___
 
-## Ways to read "Re-framing Planning and Teaching as a Design Challenge"
+## Ways to read "Elementary Inquiry"
 - [The GitHub Repository](https://github.com/janzeteachesit/elementary-inquiry/)
 - [As a GitBook](https://janzeteachesit.gitbooks.io/elementary-inquiry/content/), even Drafts
 - [As Web Pages \(gh_pages\)](https://janzeteachesit.github.io/elementary-inquiry/), even Drafts
