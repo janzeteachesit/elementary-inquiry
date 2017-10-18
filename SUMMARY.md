@@ -23,3 +23,11 @@
     * [Computers and Communications Devices](devices.md)
        * [Encryption](encryption.md)
     * Robotics   
+* [Summer Coding Playground -GDoc Folder](https://drive.google.com/drive/folders/0BysMfTbvAUUVT2cwUmE5STM3ZG8?usp=sharing) \(sorry, not all public; those that are will be linked below)
+  * [Coding Playground Shared Folder](https://drive.google.com/open?id=0BysMfTbvAUUVb0QzWWsyUHk0b0k)
+* [Learning Buddies Network](learning-buddies.md)
+  * [C.O.D.E Initiative](http://thecodeinitiative.ca/#about), [fb](https://www.facebook.com/pg/theCODEinitiative/about/)
+* Traction
+  * [UBC GIRLsmarts4tech](http://www.cs.ubc.ca/girlsmarts4tech/resources/4parents/broadridgeResources.html)
+  
+  
