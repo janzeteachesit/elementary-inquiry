@@ -29,5 +29,6 @@
   * [C.O.D.E Initiative](http://thecodeinitiative.ca/#about), [fb](https://www.facebook.com/pg/theCODEinitiative/about/)
 * Traction
   * [UBC GIRLsmarts4tech](http://www.cs.ubc.ca/girlsmarts4tech/resources/4parents/broadridgeResources.html)
+- [To Follow Up](to-follow-up.md)
   
   
