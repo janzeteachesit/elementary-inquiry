@@ -26,7 +26,7 @@ Meeting | Length | Purpose
 3 | Half Day, May | Share What worked, What Would Change, What Would Add
 
 
-## Session 1 20170227
+## [Session 1 20170227](session-one-agenda.md)
 ### Agenda
 1:00  - 2:00
   1. Introductions
