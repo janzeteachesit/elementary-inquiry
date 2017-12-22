@@ -11,12 +11,15 @@
 ## The “four pillars” of Computational Thinking
 ### Decomposition
 - Breaking a problem down into smaller, more manageable pieces: Remembering phone numbers; Reading words; Performing arithmetic operations
+-  turn larger puzzles into small puzzles
 - "The ability to break down a task {or problem} into minute details so that we can clearly explain a process to another person or to a computer, or even to just write notes for ourselves."
 ### Pattern Matching (Pattern Recognition)
 - Finding similarities between items as a way of gaining information
+- find similarities between obstacles
 - "The ability to notice similarities or common differences that will help us make predictions or lead us to shortcuts."
 ### Abstraction (Pattern  Generalization)
 - Ignoring certain details in order to come up with a solution that works for a more general problem
+- repurpose a previous solution with new details by abstracting out differences
 - "The ability to filter out information that is not necessary to solve a certain type of problem and generalize the information that is necessary."
 ### Automating with Algorithms (Algorithm Design)
 - Controlling a process by automatic means, executing tasks using well-defined instructions
