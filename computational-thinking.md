@@ -1,13 +1,6 @@
 # Computational Thinking
 
-1. [Computational Thinking](computational-thinking.md)
-   1. Digital
-         - [Code.org](https://code.org/teacher-dashboard#/)
-   2. Unplugged
-         - [CS Unplugged](http://csunplugged.org/wp-content/uploads/2015/03/CSUnplugged_OS_2015_v3.1.pdf)
-         - [Code.org Unplugged 3](https://studio.code.org/unplugged/unplug3.pdf) - Graph Paper Programming; Main Goal: Help students understand how “coding” works. Sample Drawings/Algorithms Kit; Programming Instructions Card; Large grid graph paper; Markers, pens, or pencils (two or three colors) 
-
-Computational Thinking is:
+## Computational Thinking is:
 > the thought processes involved in formulating problems and their solutions so that the solutions are in a form that can be effectively carried out by an information-processing agent.
 >
 > \- Cuny, Snyder, Wing 2010
@@ -15,7 +8,27 @@ Computational Thinking is:
 >Informally, computational thinking describes the mental activity in formulating a problem to admit a computational solution.  The solution can be carried out by a human or a machine or, more generally, by combinations of humans and machines.”
 - [Wing 2010](https://www.cs.cmu.edu/link/research-notebook-computational-thinking-what-and-why)
 
+## The “four pillars” of Computational Thinking
+### Decomposition
+- Breaking a problem down into smaller, more manageable pieces: Remembering phone numbers; Reading words; Performing arithmetic operations
+- "The ability to break down a task {or problem} into minute details so that we can clearly explain a process to another person or to a computer, or even to just write notes for ourselves."
+### Pattern Matching (Pattern Recognition)
+- Finding similarities between items as a way of gaining information
+- "The ability to notice similarities or common differences that will help us make predictions or lead us to shortcuts."
+### Abstraction (Pattern  Generalization)
+- Ignoring certain details in order to come up with a solution that works for a more general problem
+- "The ability to filter out information that is not necessary to solve a certain type of problem and generalize the information that is necessary."
+### Automating with Algorithms (Algorithm Design)
+- Controlling a process by automatic means, executing tasks using well-defined instructions
+- "The ability to develop a step-by-step strategy for solving a problem."
          
+1. [Computational Thinking](computational-thinking.md)
+   1. Digital
+         - [Code.org](https://code.org/teacher-dashboard#/)
+   2. Unplugged
+         - [CS Unplugged](http://csunplugged.org/wp-content/uploads/2015/03/CSUnplugged_OS_2015_v3.1.pdf)
+         - [Code.org Unplugged 3](https://studio.code.org/unplugged/unplug3.pdf) - Graph Paper Programming; Main Goal: Help students understand how “coding” works. Sample Drawings/Algorithms Kit; Programming Instructions Card; Large grid graph paper; Markers, pens, or pencils (two or three colors) 
+
 
 
 ## Notes, Resources and Links
