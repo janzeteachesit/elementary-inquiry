@@ -26,3 +26,8 @@ Computational Thinking is:
 - [2016-2017 Elementary Inquiry](https://janzeteachesit.github.io/elementary-inquiry/20162017-elem-inq-febnotes.html)
 - [Computational Thinking CT - 2016-2017 Elementary Inquiry - Notes 20170227](https://docs.google.com/document/d/1sL2Iil_h9o9MzjcEJdxWsSm4CzN-1ZXKM6-0rUm4z2s)
 - [Introduction to Computational Thinking](https://docs.google.com/document/d/1zPPzqPFtlq_pJG2VANPep_ZmoMOZlqwp5Y4_YzXGs4U/edit?usp=sharing)
+- https://www.google.ca/search?q=describes+the+mental+activity+in+formulating+a+problem+to+admit+a+computational+solution.+The+solution+can+be+carried+out+by+a+human+or+a+machine+or%2C+more+generally%2C+by+combinations+of+humans+and+machines&rlz=1C1CHBF_enCA700CA700&oq=describes+the+mental+activity+in+formulating+a+problem+to+admit+a+computational+solution.++The+solution+can+be+carried+out+by+a+human+or+a+machine+or%2C+more+generally%2C+by+combinations+of+humans+and+machines&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8 | describes the mental activity in formulating a problem to admit a computational solution. The solution can be carried out by a human or a machine or, more generally, by combinations of humans and machines - Google Search
+- https://docs.google.com/viewer?url=https://www.cs.cmu.edu/~CompThink/resources/TheLinkWing.pdf | TheLinkWing.pdf
+- https://docs.google.com/viewer?url=http://web.media.mit.edu/~kbrennan/files/Brennan_Resnick_AERA2012_CT.pdf | Brennan_Resnick_AERA2012_CT.pdf
+- https://docs.google.com/viewer?url=https://www.ijircce.com/upload/2015/november/104_28_A_Conceptual.pdf | 104_28_A_Conceptual.pdf
+- https://docs.google.com/viewer?url=https://www.cs.cmu.edu/~15110-s13/Wing06-ct.pdf | Wing06-ct.pdf
