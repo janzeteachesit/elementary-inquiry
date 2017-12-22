@@ -22,7 +22,7 @@
 - Controlling a process by automatic means, executing tasks using well-defined instructions
 - "The ability to develop a step-by-step strategy for solving a problem."
          
-## 1. [Computational Thinking](computational-thinking.md)
+## [Computational Thinking](computational-thinking.md)
    1. Digital
          - [Code.org](https://code.org/teacher-dashboard#/)
    2. Unplugged
