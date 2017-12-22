@@ -9,10 +9,10 @@
 
 Computational Thinking is:
 > the thought processes involved in formulating problems and their solutions so that the solutions are in a form that can be effectively carried out by an information-processing agent.
+>
 > \- Cuny, Snyder, Wing 2010
 >
->Informally:
-> \[CT\] describes the mental activity in formulating a problem to admit a computational solution.  The solution can be carried out by a human or a machine or, more generally, by combinations of humans and machines.”
+>Informally, computational thinking describes the mental activity in formulating a problem to admit a computational solution.  The solution can be carried out by a human or a machine or, more generally, by combinations of humans and machines.”
 - [Wing 2010](https://www.cs.cmu.edu/link/research-notebook-computational-thinking-what-and-why)
 
          
