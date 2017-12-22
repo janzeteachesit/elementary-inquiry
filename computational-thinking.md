@@ -11,5 +11,6 @@
 ## Notes, Resources and Links
 - [Computational Thinking - GDrive](https://docs.google.com/document/d/19ag1lRj113mJCOmJW5caS2-WL0nrESEr5T53AG9mPqk)
 - [Computational Thinking - GitHub](https://github.com/janzeteachesit/elementary-inquiry/blob/master/computational-thinking.md)
+- [computational-thinking - GFolder](https://drive.google.com/open?id=0B_ItEaSNwzOzaXloYWYtTDAwNUE)
 - [2016-2017 Elementary Inquiry](https://janzeteachesit.github.io/elementary-inquiry/20162017-elem-inq-febnotes.html)
 - [Computational Thinking CT - 2016-2017 Elementary Inquiry - Notes 20170227](https://docs.google.com/document/d/1sL2Iil_h9o9MzjcEJdxWsSm4CzN-1ZXKM6-0rUm4z2s)
