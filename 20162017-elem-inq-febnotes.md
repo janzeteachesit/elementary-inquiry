@@ -198,6 +198,12 @@ abstraction in their everyday life.
 - Identify how the land, natural resources, and culture influence the development and use of tools and technologies
 
 
+Notes, Resources and Links
+- [2016-2017 Elementary Inquiry Notes 20170227 - GitHub](https://github.com/janzeteachesit/elementary-inquiry/blob/master/20162017-elem-inq-febnotes.md)
+- [Computational Thinking CT - 2016-2017 Elementary Inquiry - Notes 20170227 - GDoc](https://docs.google.com/document/d/1sL2Iil_h9o9MzjcEJdxWsSm4CzN-1ZXKM6-0rUm4z2s/edit?usp=sharing)
+
+
+
 
 
 
