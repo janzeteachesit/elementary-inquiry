@@ -7,6 +7,15 @@
          - [CS Unplugged](http://csunplugged.org/wp-content/uploads/2015/03/CSUnplugged_OS_2015_v3.1.pdf)
          - [Code.org Unplugged 3](https://studio.code.org/unplugged/unplug3.pdf) - Graph Paper Programming; Main Goal: Help students understand how “coding” works. Sample Drawings/Algorithms Kit; Programming Instructions Card; Large grid graph paper; Markers, pens, or pencils (two or three colors) 
 
+Computational Thinking is:
+> the thought processes involved in formulating problems and their solutions so that the solutions are in a form that can be effectively carried out by an information-processing agent.
+> - Cuny, Snyder, Wing 2010
+>Informally:
+> \[CT\] describes the mental activity in formulating a problem to admit a computational solution.  The solution can be carried out by a human or a machine or, more generally, by combinations of humans and machines.”
+- [Wing 2010](https://www.cs.cmu.edu/link/research-notebook-computational-thinking-what-and-why)
+
+         
+
 
 ## Notes, Resources and Links
 - [Computational Thinking - GDrive](https://docs.google.com/document/d/19ag1lRj113mJCOmJW5caS2-WL0nrESEr5T53AG9mPqk)
