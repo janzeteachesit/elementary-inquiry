@@ -12,7 +12,7 @@ Rough agenda for the meeting:
   1. Introductions
   2. Purpose of Inquiry
   3. Topics
-     1. Computational Thinking
+     1. [Computational Thinking](computational-thinking.md)
         1. Digital
            - [Code.org](https://code.org/teacher-dashboard#/)
         2. Unplugged
